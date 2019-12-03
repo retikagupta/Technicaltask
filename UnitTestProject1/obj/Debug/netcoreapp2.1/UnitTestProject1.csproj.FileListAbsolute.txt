@@ -1,0 +1,17 @@
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\bin\Debug\netcoreapp2.1\Technicaltask.dll
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\bin\Debug\netcoreapp2.1\Technicaltask.pdb
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\Users\regup\source\repos\Technicaltask\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb

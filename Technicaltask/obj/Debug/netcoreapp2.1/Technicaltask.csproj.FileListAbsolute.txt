@@ -1,0 +1,10 @@
+C:\Users\regup\source\repos\Technicaltask\Technicaltask\bin\Debug\netcoreapp2.1\Technicaltask.deps.json
+C:\Users\regup\source\repos\Technicaltask\Technicaltask\bin\Debug\netcoreapp2.1\Technicaltask.runtimeconfig.json
+C:\Users\regup\source\repos\Technicaltask\Technicaltask\bin\Debug\netcoreapp2.1\Technicaltask.runtimeconfig.dev.json
+C:\Users\regup\source\repos\Technicaltask\Technicaltask\bin\Debug\netcoreapp2.1\Technicaltask.dll
+C:\Users\regup\source\repos\Technicaltask\Technicaltask\bin\Debug\netcoreapp2.1\Technicaltask.pdb
+C:\Users\regup\source\repos\Technicaltask\Technicaltask\obj\Debug\netcoreapp2.1\Technicaltask.csproj.CoreCompileInputs.cache
+C:\Users\regup\source\repos\Technicaltask\Technicaltask\obj\Debug\netcoreapp2.1\Technicaltask.AssemblyInfoInputs.cache
+C:\Users\regup\source\repos\Technicaltask\Technicaltask\obj\Debug\netcoreapp2.1\Technicaltask.AssemblyInfo.cs
+C:\Users\regup\source\repos\Technicaltask\Technicaltask\obj\Debug\netcoreapp2.1\Technicaltask.dll
+C:\Users\regup\source\repos\Technicaltask\Technicaltask\obj\Debug\netcoreapp2.1\Technicaltask.pdb
